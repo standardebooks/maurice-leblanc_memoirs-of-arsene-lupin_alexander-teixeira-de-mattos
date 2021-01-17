@@ -46,12 +46,13 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_memoirs-of-arsene-lupin_alexander-teixeira-de-mattos</meta>
-<dc:creator id="author">Maurice Leblanc</dc:creator>
+		<dc:creator id="author">Maurice Leblanc</dc:creator>
 		<meta property="file-as" refines="#author">Leblanc, Maurice</meta>
 		<meta property="se:name.person.full-name" refines="#author">Maurice Marie Émile Leblanc</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Maurice_Leblanc</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50042568</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Alexander Teixeira de Mattos</dc:contributor>
 		<meta property="file-as" refines="#translator">Teixeira de Mattos, Alexander</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Alexander Louis Teixeira de Mattos San Payo y Mendes</meta>
