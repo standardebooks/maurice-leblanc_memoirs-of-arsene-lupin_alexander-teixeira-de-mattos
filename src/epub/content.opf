@@ -39,13 +39,14 @@
 		<meta id="collection-1" property="belongs-to-collection">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The gentleman-thief recounts the tale of his first major caper.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the process of writing his memoirs, &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; takes us back to his early twenties and his first love: Clarice d’Etigues. Although forbidden by her father to meet, that doesn’t stop Ralph d’Andresy⁠—Lupin’s &lt;i lang="fr"&gt;nom du jour&lt;/i&gt;⁠—from wooing Clarice. But when he finds evidence on the d’Etigues estate of a conspiracy to murder a woman, he cannot help but be drawn into the ensuing three-way race to a legendary treasure.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Memoirs of Arsène Lupin&lt;/i&gt; was originally published in France in 1924 under the name &lt;i lang="fr"&gt;La Comtesse de Cagliostro&lt;/i&gt;; this English translation was published the following year. &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc&lt;/a&gt; was not the only author to call on the myth of Cagliostro as a framing device: both &lt;a href="https://standardebooks.org/ebooks/j-w-von-goethe"&gt;Goethe&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Dumas&lt;/a&gt; had written famous novels on the subject. This story showcases a Lupin who is growing into his abilities, and with the swings between outright confidence and self-doubt that would be expected of so comparatively young a protagonist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/Memoirs_of_Arsene_Lupin/W75EAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Transcription from OCR; there is no corresponding Gutenberg link yet.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_memoirs-of-arsene-lupin_alexander-teixeira-de-mattos</meta>
