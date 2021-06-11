@@ -15,7 +15,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-abbr.acronym{
+[epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
 }
 
