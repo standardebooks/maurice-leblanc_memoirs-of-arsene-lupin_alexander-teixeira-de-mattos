@@ -46,7 +46,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.google.com/books/edition/Memoirs_of_Arsene_Lupin/W75EAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Transcription from OCR; there is no corresponding Gutenberg link yet.</meta>
-		<meta property="se:word-count">84804</meta>
+		<meta property="se:word-count">84805</meta>
 		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_memoirs-of-arsene-lupin_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
